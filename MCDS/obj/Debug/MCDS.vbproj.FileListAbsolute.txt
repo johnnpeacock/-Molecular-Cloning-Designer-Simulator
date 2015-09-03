@@ -1,0 +1,2 @@
+C:\Users\Jack\AppData\Local\Temporary Projects\MCDS\bin\Debug\MCDS.exe.config
+C:\Users\Jack\Documents\Visual Studio 2013\Projects\MCDS\MCDS\bin\Debug\MCDS.exe.config
